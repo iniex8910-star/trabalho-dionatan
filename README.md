@@ -1,24 +1,38 @@
 # Leukocyte
-O projeto consiste em um jogo no estilo (METROIVANIA) onde você é um globulo branco.
+Um jogo no estilo Metroidvania onde você assume o papel de um glóbulo branco explorando o corpo humano, combatendo infecções e evoluindo suas habilidades para proteger o organismo.
 
-Criação dos sprites do protagonista
-Criação dos sprites dos npcs
-Criação dos sprites dos inimigos bases
-Criação dos sprites dos bosses
-Level Design da bacia
-level design do intestino
-level design do estomago
-level design do intestino
-level design do pancreas
-level design da medula
-level design da faringe
-level design das pernas
-level design da boca
-level design do cerebro
-Dublagem
-Design dos personagens
-Programação da movimentação
-Design de combate
-Design dos Inimigos
-Design de Audio
-Criação OST'S
+# Conceito
+
+Inspirado em jogos clássicos do gênero Metroidvania, o jogo combina:
+
+Exploração não linear
+Progressão baseada em habilidades
+Combate dinâmico
+
+# Ambientação
+
+Explore diferentes regiões do corpo humano:
+
+🫀 Corrente sanguínea
+🫁 Pulmões
+🧠 Sistema nervoso
+🦠 Áreas infectadas
+
+# Tecnologias Utilizadas
+
+Engine: (Unity)
+Linguagem: (C++)
+Arte: (Pixel Art)
+Áudio: (Ferramentas utilizadas)
+
+#Objetivo do Jogador
+
+Eliminar infecções
+Explorar todo o mapa
+Evoluir habilidades
+Restaurar o equilíbrio do corpo
+
+
+
+
+
