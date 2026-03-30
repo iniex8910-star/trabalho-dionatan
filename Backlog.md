@@ -1,0 +1,37 @@
+Elaboração da Visão do Produto.
+Criação do arquivo README.md com as especificações gerais.
+Definição de qual será o público alvo.
+Elaboração do Documento de Design de Jogo (GDD) simplificado.
+Definição da árvore de habilidades (Power-ups do glóbulo branco).
+Planejamento das Sprints e marcos de entrega.
+Design do Protagonista (Leucocito).
+Criação do Sprite Sheet de movimento (Idle, Run, Jump).
+Design visual dos inimigos (Vírus, Bactérias, Vérmes, etc).
+Criação de Sprites para os inimigos básicos.
+Design do cenário "Corrente Sanguínea".
+Design do cenário "Pulmões".
+Design do cenário "Espinha".
+Design do cenário "Intestino".
+Design do cenário "Estomago".
+Design do cenário "Fígado".
+Design do cenário "Coração".
+Design do cenário "Traqueia".
+Design do cenário "Cerébro".
+Criação de partículas para efeitos de cura e dano.
+Elaboração da Identidade Visual (Logo do jogo).
+Sistema de controle do jogador (Input Manager).
+Lógica de movimentação (Física, Pulo, Dash e grapling hook).
+Sistema de combate (Detecção de colisão e dano).
+IA dos inimigos (Patrulha e Perseguição).
+Sistema de Inventário/Habilidades adquiridas.
+Lógica de transição entre salas (Map Loader).
+Sistema de Progressão (Checkpoints e Save).
+Lógica de UI (Barras de Vida e Energia).
+Sketch do mapa múndi (Conexões entre órgãos).
+Level Design do primeiro mapa.
+Mapeamento de colecionáveis e segredos.
+Criação de efeitos sonoros de movimento (SFX).
+Criação de efeitos sonoros de combate.
+Composição da trilha sonora tema (Loop principal).
+Composição da trilha sonora das batalha de Chefe.
+Teste de fluxo de jogo (Playtesting de papel/lógica).
