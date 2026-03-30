@@ -24,9 +24,3 @@ Engine: (Unity)
 Linguagem: (C++)
 Arte: (Pixel Art)
 Áudio: (Ferramentas utilizadas)
-Restaurar o equilíbrio do corpo
-
-
-
-
-
