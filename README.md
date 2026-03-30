@@ -24,12 +24,6 @@ Engine: (Unity)
 Linguagem: (C++)
 Arte: (Pixel Art)
 Áudio: (Ferramentas utilizadas)
-
-#Objetivo do Jogador
-
-Eliminar infecções
-Explorar todo o mapa
-Evoluir habilidades
 Restaurar o equilíbrio do corpo
 
 
