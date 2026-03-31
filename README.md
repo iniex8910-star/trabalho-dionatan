@@ -11,12 +11,13 @@ Combate dinâmico
 
 # Ambientação
 
-Explore diferentes regiões do corpo humano:
+Regiões exploráveis:
 
-🫀 Corrente sanguínea
-🫁 Pulmões
-🧠 Sistema nervoso
-🦠 Áreas infectadas
+Corrente sanguínea
+Pulmões
+Sistema nervoso
+Áreas infectadas
+ETC...
 
 # Tecnologias Utilizadas
 
