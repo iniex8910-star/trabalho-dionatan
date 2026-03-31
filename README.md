@@ -5,8 +5,8 @@ Um jogo no estilo Metroidvania onde você assume o papel de um glóbulo branco e
 
 Inspirado em jogos clássicos do gênero Metroidvania, o jogo combina:
 
-Exploração não linear
-Progressão baseada em habilidades
+Exploração não linear,
+Progressão baseada em habilidades e
 Combate dinâmico
 
 # Ambientação
