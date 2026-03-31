@@ -24,4 +24,4 @@ ETC...
 Engine: (Unity)
 Linguagem: (C++)
 Arte: (Pixel Art)
-Áudio: (Ferramentas utilizadas)
+Áudio: (Audios reais do corpo humano)
