@@ -13,10 +13,10 @@ Combate dinâmico
 
 Regiões exploráveis:
 
-Corrente sanguínea
-Pulmões
-Sistema nervoso
-Áreas infectadas
+Corrente sanguínea, 
+Pulmões,
+Sistema nervoso,
+Áreas infectadas,
 ETC...
 
 # Tecnologias Utilizadas
